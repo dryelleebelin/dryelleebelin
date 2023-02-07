@@ -14,6 +14,8 @@
   <img align="center" alt="Dryelle-VisualStudiocode" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
   <img align="center" alt="Dryelle-VisualStudio" height="37" width="42" src="https://img.icons8.com/fluency/512/visual-studio.png">
   <img align="center" alt="Dryelle-Git" height="40" width="44" src="https://img.icons8.com/color/48/000000/git.png">
+  <img align="center" alt="Dryelle-Intellij" height="40" width="44" src="https://img.icons8.com/color/256/intellij-idea.png">
+  <img align="center" alt="Dryelle-SQL-Server" height="40" width="44" src="https://img.icons8.com/color/256/microsoft-sql-server.png">
  </div>
   
   ##
