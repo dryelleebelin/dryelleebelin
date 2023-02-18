@@ -17,6 +17,7 @@
   <img align="center" alt="Dryelle-VisualStudio" height="37" width="42" src="https://img.icons8.com/fluency/512/visual-studio.png">
   <img align="center" alt="Dryelle-Intellij" height="40" width="44" src="https://img.icons8.com/color/256/intellij-idea.png">
   <img align="center" alt="Dryelle-SQL-Server" height="40" width="44" src="https://img.icons8.com/color/256/microsoft-sql-server.png">
+  <img align="center" alt="Dryelle-MySQL" height="40" width="44" src="https://img.icons8.com/color/256/mysql-logo.png">
   <img align="center" alt="Dryelle-Git" height="40" width="44" src="https://img.icons8.com/color/48/000000/git.png">
  </div>
   
