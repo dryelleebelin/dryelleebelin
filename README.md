@@ -10,6 +10,7 @@
   <img align="center" alt="Dryelle-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dryelle-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dryelle-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dryelle-ReactJS" height="38" width="40" src="https://img.icons8.com/officel/256/react.png">
   <img align="center" alt="Dryelle-C#" height="40" width="42" src="https://img.icons8.com/color/512/c-sharp-logo.png">
   <img align="center" alt="Dryelle-Java" height="45" width="45" src="https://img.icons8.com/color/256/java-coffee-cup-logo.png">
   <img align="center" alt="Dryelle-SQL" height="34" width="38" src="https://img.icons8.com/external-soft-fill-juicy-fish/256/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"><br><br>
