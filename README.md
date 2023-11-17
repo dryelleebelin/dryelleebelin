@@ -1,5 +1,5 @@
 ## Olá!! Eu sou a Dryelle Ebelin.  
-Sou uma Desenvolvedora Frontend e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+Sou Desenvolvedora Fron-tend e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ### Minhas stacks
 <div style="display: inline_block">
