@@ -10,6 +10,7 @@ Sou Desenvolvedora Fron-tend e estou sempre buscando aprender novas tecnologias 
   <img align="center" alt="SQL" height="34" width="38" src="https://img.icons8.com/external-soft-fill-juicy-fish/256/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jest React" height="35" width="42" src="https://img.icons8.com/?size=256&id=bp24DwGXJDyT&format=png">
   <img align="center" alt="Docker" height="40" width="50" src="https://img.icons8.com/color/48/docker.png">
 </div>
 
