@@ -24,6 +24,7 @@ Sou Desenvolvedora Fron-tend e estou sempre buscando aprender novas tecnologias 
   <img align="center" alt="SQL-Server" height="40" width="44" src="https://img.icons8.com/color/256/microsoft-sql-server.png">
   <img align="center" alt="MySQL" height="40" width="44" src="https://img.icons8.com/color/256/mysql-logo.png">
   <img align="center" alt="PostgreSQL" height="34" width="38" src="https://img.icons8.com/?size=256&id=38561&format=png">
+  <img align="center" alt="PostgreSQL" height="34" width="34" src="https://img.icons8.com/?size=256&id=1LAX3PYMg2iA&format=png">
  </div>
 
 ##
