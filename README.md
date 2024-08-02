@@ -41,7 +41,7 @@ Sou Desenvolvedora Fron-tend e estou sempre buscando aprender novas tecnologias 
   
 ### Contato
 - LinkedIn: [https://www.linkedin.com/in/dryelle-ebelin/](https://www.linkedin.com/in/seu-perfil-linkedin)  
-- GitHub secundário: [https://github.com/dryelleebelinvar](https://github.com/dryelleebelinvar)  
+- [https://github.com/dryelleebelinvar](https://github.com/dryelleebelinvar)  
   
   
 Fique à vontade para explorar meus repositórios e entrar em contato comigo para qualquer projeto ou oportunidade de colaboração.
