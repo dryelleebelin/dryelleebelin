@@ -38,6 +38,7 @@
   <img align="center" alt="MySQL" height="40" width="44" src="https://img.icons8.com/color/256/mysql-logo.png">
   <img align="center" alt="PostgreSQL" height="34" width="38" src="https://img.icons8.com/?size=256&id=38561&format=png">
   <img align="center" alt="Firebase" height="34" width="34" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000">
+  <img align="center" alt="Codepen" height="34" width="34" src="https://img.icons8.com/?size=100&id=zO3uMctnm3XD&format=png&color=000000">
  </div>
 
 ##
