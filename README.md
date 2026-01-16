@@ -48,13 +48,13 @@
   <a href="https://github.com/dryelleebelin">
     <img
       src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=dryelleebelin&count_private=true&show_icons=true&bg_color=161b22&title_color=dde1e6&text_color=aeb6bf&icon_color=9aa4ad&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"
-      height="170em"
+      height="155em"
       alt="GitHub Stats"
     />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img
       src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=dryelleebelin&background=161b22&ring=9aa4ad&fire=9aa4ad&currStreakNum=dde1e6&sideNums=dde1e6&sideLabels=aeb6bf&dates=aeb6bf&stroke=161b22"
-      height="170em"
+      height="155em"
       alt="Streak Stats"
     />
   </a>
