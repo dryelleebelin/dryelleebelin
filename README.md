@@ -1,12 +1,12 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=DryelleEbelin&color=A0A0A0&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<!-- <img src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
 
 <p align="left">
   <strong>Desenvolvedora Front-end focada em Web e Mobile.</strong><br>
   Transformo conceitos em interfaces claras, rápidas e eficientes, sempre buscando aprender algo novo e elevar a qualidade do que construo.
 </p>
-
 
 ### Minhas stacks
 <div style="display: inline_block">
@@ -39,16 +39,33 @@
   <img align="center" alt="PostgreSQL" height="34" width="38" src="https://img.icons8.com/?size=256&id=38561&format=png">
   <img align="center" alt="Firebase" height="34" width="34" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000">
   <img align="center" alt="Codepen" height="34" width="34" src="https://img.icons8.com/?size=100&id=zO3uMctnm3XD&format=png&color=000000">
- </div>
+</div>
 
 ##
 </br>
-<div>
+
+<div align="start">
+  <a href="https://github.com/dryelleebelin">
+    <img
+      src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=dryelleebelin&count_private=true&show_icons=true&bg_color=161b22&title_color=dde1e6&text_color=aeb6bf&icon_color=9aa4ad&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"
+      height="170em"
+      alt="GitHub Stats"
+    />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+      src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=dryelleebelin&background=161b22&ring=9aa4ad&fire=9aa4ad&currStreakNum=dde1e6&sideNums=dde1e6&sideLabels=aeb6bf&dates=aeb6bf&stroke=161b22"
+      height="170em"
+      alt="Streak Stats"
+    />
+  </a>
+</div>
+
+<!-- <div>
   <a href="https://github.com/dryelleebelin">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dryelleebelin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dryelleebelin&layout=compact&langs_count=7&theme=dark"/>
   </a>
-</div>
+</div> -->
   
   ##
   
